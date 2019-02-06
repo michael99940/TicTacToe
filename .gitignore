@@ -1,0 +1,17 @@
+# gitignore
+
+node_modules
+example
+build
+db/config.js
+db/reservations.csv
+db/restaurants.csv
+db/couchConfig.js
+db/data2.jsonl
+db/data3.jsonl
+newrelic.js
+
+
+
+# Only apps should have lockfiles
+yarn.lock
